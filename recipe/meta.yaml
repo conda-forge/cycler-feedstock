@@ -2,11 +2,9 @@ package:
   name: cycler
   version: 0.9.0
 
-
 source:
   url: https://github.com/matplotlib/cycler/archive/v0.9.0.tar.gz
   fn: cycler-v0.9.0.tar.gz
-
 
 requirements:
   build:
@@ -29,4 +27,8 @@ about:
   home: http://github.com/matplotlib/cycler
   license: BSD
   summary: 'Composable style cycles'
+
+extra:
+  recipe-maintainers:
+    - pelson
 
