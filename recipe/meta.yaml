@@ -18,6 +18,9 @@ requirements:
     - python
     - six
 
+build:
+  number: 1
+
 test:
   imports:
     - cycler

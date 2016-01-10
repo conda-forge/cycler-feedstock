@@ -21,6 +21,12 @@ env:
 
 
 
+  global:
+
+    # The BINSTAR_TOKEN secure variable. This is defined canonically in forge.yml.
+    - secure: "L7sEVArGuYoPFlqa1ny/jEyn6IL7qNGhEPHvGqRKBPJDwz9wWtMJ5u7LD30L+PRdznAdgzHfX1CJ4yDBQkudqIO3eoO9cjOVswaAvXkaLypVa+NLbgkgkjCXmqNTZujyVS/tbtoOjpk+4HI2lWXiCoIsOdcJRlt3DuY8zD/TkZFAaNdvFJY3qFGII7eFQYeeKXhw0Pni7eZV0zToTQrR+0Vv8cFIijomS07MaWF6eavAz7mCqRf67826ZZrThiDiyTVBeGZq8MuHJwy/q4BVRpuFsMSgSqhvVQNrlxMIUYzRpbsPz92PbMEef0V3TREVxFNETgtIIKEOw34dQbGCujqveh5AwM8P7/5K2oyu7s4NVKHEzue2LHNBDuDfCn9nDrl7JmO2cfBbIrdeEyOENiBgE+1u/7lQ7lcFRZCvU8++HKV3BMQijjq1We76TvD3EYQo4TI6jazkILcsASaLoy+CHqiHA4XdFlybwtDuE5PRyJG8nrp5kj2Rl6oAHOeEmqAQiMUnVQHCxKcoTg3YriCzwD2gd4IOuCwxjh+Tf8A4p9iTsFFeaLAch5Yl6XwUIjtX/RHbVEqahdXLqTbDwl1i1tf9GKE27j1NOE36fi5CvKTOS37T3Ql687+V652o3juasakWVhLbY5JzuWwNBbadTWxXVL+aJq3M2a7zl04="
+
+
 
 
 
