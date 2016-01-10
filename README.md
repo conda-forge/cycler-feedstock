@@ -66,9 +66,9 @@ Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-f
 
 
 If you would like to improve the cycler recipe, please take the normal
-route of forking this repository and submitting a PR. Upon subimssion, your changes will
-be run on the appropriate platforms to give the reviewer an opportnity to confirm that the
-changes result in a sucessfull build. Once merged, the recipe will be re-built and uploaded
+route of forking this repository and submitting a PR. Upon submission, your changes will
+be run on the appropriate platforms to give the reviewer an opportunity to confirm that the
+changes result in a successful build. Once merged, the recipe will be re-built and uploaded
 automatically to the conda-forge channel, whereupon they will be available for everybody to
 install and use.
 
