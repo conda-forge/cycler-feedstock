@@ -1,8 +1,12 @@
 About cycler
 ============
+
 Home: http://github.com/matplotlib/cycler
+
 Package license: BSD
+
 Feedstock license: BSD
+
 Summary: Composable style cycles
 
 
