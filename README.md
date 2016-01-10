@@ -67,16 +67,15 @@ Terminology
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
 
-
-Updating cycler
-===============
-
 Current build status
---------------------
+====================
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/cycler-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/cycler-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/cycler-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/cycler-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/cycler-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/cycler-feedstock/branch/master)
 
+
+Updating cycler-feedstock
+=========================
 
 If you would like to improve the cycler recipe, please take the normal
 route of forking this repository and submitting a PR. Upon submission, your changes will
