@@ -1,10 +1,10 @@
 package:
   name: cycler
-  version: 0.9.0
+  version: 0.10.0
 
 source:
-  url: https://github.com/matplotlib/cycler/archive/v0.9.0.tar.gz
-  fn: cycler-v0.9.0.tar.gz
+  url: https://github.com/matplotlib/cycler/archive/v0.10.0.tar.gz
+  fn: cycler-v0.10.0.tar.gz
 
 requirements:
   build:
@@ -17,7 +17,7 @@ requirements:
     - six
 
 build:
-  number: 1
+  number: 0
 
 test:
   imports:
