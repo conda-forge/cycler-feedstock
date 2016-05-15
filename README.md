@@ -5,7 +5,7 @@ Home: http://github.com/matplotlib/cycler
 
 Package license: BSD
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Composable style cycles
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/cycler-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/cycler-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/cycler-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/cycler-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/cycler-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/cycler-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/cycler/badges/version.svg)](https://anaconda.org/conda-forge/cycler)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/cycler/badges/downloads.svg)](https://anaconda.org/conda-forge/cycler)
 
 
 Updating cycler-feedstock
