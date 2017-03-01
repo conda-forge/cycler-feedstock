@@ -5,6 +5,10 @@ package:
 source:
   url: https://github.com/matplotlib/cycler/archive/v0.10.0.tar.gz
   fn: cycler-v0.10.0.tar.gz
+  sha256sum: b6d217635e03024196225367b1a438996dbbf0271bec488f00584f0e7dc15cfa
+
+build:
+  number: 0
 
 requirements:
   build:
@@ -15,9 +19,6 @@ requirements:
   run:
     - python
     - six
-
-build:
-  number: 0
 
 test:
   imports:
