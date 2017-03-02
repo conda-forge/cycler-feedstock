@@ -9,13 +9,13 @@ source:
 
 build:
   number: 0
+  script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
   build:
     - python
     - setuptools
     - six
-
   run:
     - python
     - six
@@ -26,11 +26,13 @@ test:
 
 about:
   home: http://github.com/matplotlib/cycler
-  license: BSD
-  summary: 'Composable style cycles'
+  license: BSD 3-Clause
+  license_file: LICENSE
+  summary: 'Composable style cycles.'
 
 extra:
   recipe-maintainers:
     - pelson
     - tacaswell
-    - JanSchulz
+    - janschulz
+    - ocefpaf
