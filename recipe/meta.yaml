@@ -1,4 +1,4 @@
-{% set version = "0.10.0" %}
+{% set version = "0.11.0" %}
 
 package:
   name: cycler
@@ -6,12 +6,12 @@ package:
 
 source:
   url: https://pypi.io/packages/source/c/cycler/cycler-{{ version }}.tar.gz
-  sha256: cd7b2d1018258d7247a71425e9f26463dfb444d411c39569972f4ce586b0c9d8
+  sha256: 9c87405839a19696e837b3b818fed3f5f69f16f1eec1a1ad77e043dcea9c772f
 
 build:
-  number: 2
+  number: 0
   noarch: python
-  script: "{{ PYTHON }} -m pip install . --no-deps -vv"
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
@@ -30,7 +30,7 @@ about:
   home: http://github.com/matplotlib/cycler
   license: BSD-3-Clause
   license_file: LICENSE
-  summary: 'Composable style cycles'
+  summary: Composable style cycles
 
 extra:
   recipe-maintainers:
