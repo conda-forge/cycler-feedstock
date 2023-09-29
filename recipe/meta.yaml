@@ -1,4 +1,4 @@
-{% set version = "0.11.0" %}
+{% set version = "0.12.0" %}
 
 package:
   name: cycler
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/c/cycler/cycler-{{ version }}.tar.gz
-  sha256: 9c87405839a19696e837b3b818fed3f5f69f16f1eec1a1ad77e043dcea9c772f
+  sha256: 8cc3a7b4861f91b1095157f9916f748549a617046e67eb7619abed9b34d2c94a
 
 build:
   number: 0
